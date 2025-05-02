@@ -19,7 +19,7 @@ Este proyecto consiste en el análisis de la situación de los empleos de oficio
 ## 4. Guía de instalación
 1. Clonar el repositorio en su IDE:
     ```
-    https://github.com/caroSeminario23/Analisis-padron-docentes-unmsm.git
+    https://github.com/caroSeminario23/Analisis_empleos_oficio.git
     ```
 
 2. Modificar la ruta de origen de las fuentes del dashboard:
